@@ -9,18 +9,18 @@ He has built this project that allows users to browse recipies using the https:/
 Project Features:
 The project filters out any null or empty values from the API before displaying them.
 Has a minimum UI/UX design that is user friendly and takes basic app design principles into account.
-Incorporates XCTest framework unit testing to insure functionality
+Incorporates XCTest framework unit testing to insure functionality.
 
 --
 Project Use:
-The user is shown an alphabetically sorted list of meals in the Desset category
-When the user selects a meal, they are taken to a detailed view that displays the meal name, instructinos, and ingredients/measurements
+The user is shown an alphabetically sorted list of meals in the Desset category.
+When the user selects a meal, they are taken to a detailed view that displays the meal name, instructinos, and ingredients/measurements.
 
 --
 Project Build:
 The project implements 2 endpoints 
-1. https://themealdb.com/api/json/v1/1/filter.php?c=Dessert for fetching the list of meals in the Dessert category
-2. https://themealdb.com/api/json/v1/1/lookup.php?i=MEAL_ID for fetching the meal details by its ID
+1. https://themealdb.com/api/json/v1/1/filter.php?c=Dessert for fetching the list of meals in the Dessert category.
+2. https://themealdb.com/api/json/v1/1/lookup.php?i=MEAL_ID for fetching the meal details by its ID.
 
 --
 One more thing:
