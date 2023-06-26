@@ -18,7 +18,7 @@ Incorporates XCTest framework unit testing to insure functionality.
 --
 Project Use:
 The user is shown an alphabetically sorted list of meals in the Desset category.
-When the user selects a meal, they are taken to a detailed view that displays the meal name, instructinos, and ingredients/measurements.
+When the user selects a meal, they are taken to a detailed view that displays the meal name, instructions, and ingredients/measurements.
 
 --
 Project Build:
