@@ -7,7 +7,7 @@ He has built this project that allows users to browse recipies using the https:/
 
 --
 Project Features:
-The project 1st filters out any null or empty values from the API before displaying them.
+The project filters out any null or empty values from the API before displaying them.
 Has a minimum UI/UX design that is user friendly and takes basic app design principles into account.
 Incorporates XCTest framework unit testing to insure functionality
 
