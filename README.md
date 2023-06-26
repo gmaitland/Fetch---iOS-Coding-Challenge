@@ -19,8 +19,8 @@ When the user selects a meal, they are taken to a detailed view that displays th
 --
 Project Build:
 The project implements 2 endpoints 
-1. for fetching the list of meals in the Dessert category
-2. for fetching the meal details by its ID
+1. https://themealdb.com/api/json/v1/1/filter.php?c=Dessert for fetching the list of meals in the Dessert category
+2. https://themealdb.com/api/json/v1/1/lookup.php?i=MEAL_ID for fetching the meal details by its ID
 
 --
 One more thing:
