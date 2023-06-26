@@ -1,9 +1,7 @@
 # Fetch---iOS-Coding-Challenge
 Garfield, iOS Engineer Apprenticeship - Take Home Test - Fetch
 
-This is Garfield Maitland's attempt at the Fetch iOS Engineer Apprenticeship Coding Challenge.
-
-He has built this project that allows users to browse recipies using the https://themealdb.com/api/php API. 
+This is Garfield Maitland's attempt at the Fetch iOS Engineer Apprenticeship Coding Challenge. He has built this project that allows users to browse recipies using the https://themealdb.com/api/php API. 
 
 --
 Project Features:
@@ -25,4 +23,3 @@ The project implements 2 endpoints
 --
 One more thing:
 Garfield has included thought process paperwork to assist evaluators in interpreting his approach to building the project.
-
