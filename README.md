@@ -5,6 +5,12 @@ This is Garfield Maitland's attempt at the Fetch iOS Engineer Apprenticeship Cod
 
 He has built this project that allows users to browse recipies using the https://themealdb.com/api/php API. 
 
+-
+--
+---
+--
+-
+
 --
 Project Features:
 The project filters out any null or empty values from the API before displaying them.
